@@ -10,3 +10,5 @@ This project highlights another unique implementation of mine. Basic linear regr
      <img src="https://github.com/oguz-deniz/LinearRegressor/assets/98212476/2e875125-b4d0-4bc6-896c-6fa6380fa601" alt="Ekran Görüntüsü (207)" width="300">     
 
 * **Accuracy Calculation:** For accuracy measurement, I normalized both the training loss and test loss values within the range of 0 to 1. In line with expectations, as the training error converged to zero, the training accuracy also converged to a perfect score of 1.0. In the case of the test data, while the accuracy exhibited a more fluctuating pattern, there were noticeable improvements over time.
+
+     <img src="https://github.com/oguz-deniz/LinearRegressor/assets/98212476/33f9543b-17c4-4aa8-bfb9-0e63e363e38b" alt="Ekran Görüntüsü (208)" width="300">
