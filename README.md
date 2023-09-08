@@ -3,7 +3,7 @@ This project highlights another unique implementation of mine. Basic linear regr
 
 * **Training Error Convergence:** During the iterative update of model parameters (m1, m2, and b), I noticed that my training error, which I measure within my Linear Regression (LR) class, converged to nearly zero around the 400th epoch. This indicates that the model became increasingly accurate in predicting the training data.
 
-      <img src="https://github.com/oguz-deniz/LinearRegressor/assets/98212476/dbeac9d6-bd72-49c0-a6f9-e638a5cb1ed2" alt="Ekran Görüntüsü (206)" width="300">
+     <img src="https://github.com/oguz-deniz/LinearRegressor/assets/98212476/dbeac9d6-bd72-49c0-a6f9-e638a5cb1ed2" alt="Ekran Görüntüsü (206)" width="300">
 
 * **Test Error Measurement:** To measure test error (test loss), I calculated the average change within my LR implementation and utilized the Root Mean Square Error (RMSE) approach. As new test data arrived, I observed that the test error approached approximately 0.32. This measurement allowed me to assess the model's performance on unseen data.
 
