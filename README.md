@@ -7,4 +7,6 @@ This project highlights another unique implementation of mine. Basic linear regr
 
 * **Test Error Measurement:** To measure test error (test loss), I calculated the average change within my LR implementation and utilized the Root Mean Square Error (RMSE) approach. As new test data arrived, I observed that the test error approached approximately 0.32. This measurement allowed me to assess the model's performance on unseen data.
 
+     <img src="https://github.com/oguz-deniz/LinearRegressor/assets/98212476/2e875125-b4d0-4bc6-896c-6fa6380fa601" alt="Ekran Görüntüsü (207)" width="300">     
+
 * **Accuracy Calculation:** For accuracy measurement, I normalized both the training loss and test loss values within the range of 0 to 1. In line with expectations, as the training error converged to zero, the training accuracy also converged to a perfect score of 1.0. In the case of the test data, while the accuracy exhibited a more fluctuating pattern, there were noticeable improvements over time.
